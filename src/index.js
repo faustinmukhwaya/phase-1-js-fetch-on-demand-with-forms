@@ -1,4 +1,4 @@
-/ src/index.js
+// src/index.js
 
 const init = () => {
     const inputForm = document.querySelector('form');
